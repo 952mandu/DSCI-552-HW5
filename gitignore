@@ -1,0 +1,11 @@
+# Datasets (download separately from UCI)
+acute+inflammations/
+communities+and+crime/
+*.data
+*.names
+*.zip
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+__MACOSX/
